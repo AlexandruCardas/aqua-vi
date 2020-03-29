@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AquaVi</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="records">Records</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userHeight">userHeight</string>
+    <string name="userWeight">userWeight</string>
+    <string name="save">save</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="user_weight">Your Weight</string>
+    <string name="user_height">Your Height</string>
+    <string name="delete">Delete</string>
+    <string name="button_value">Add Drink</string>
+    <string name="header_tex1">Choose Drink</string>
+    <string name="header_text2">Choose Amount</string>
+    <string name="header_record">Entry</string>
+    <string name="content_logo">logoImage</string>
+</resources>
